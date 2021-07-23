@@ -1,0 +1,79 @@
+// 1. https://service-catalog-wings-uat.tom.takeoff.com/api-docs/index.html#/location/post_api_v1_location_mfc
+
+{
+        "timezone": "Australia/Queensland",
+        "location-address": {
+            "state": "QLD",
+            "iso-state": "AU-QLD",
+            "city": "Maroochydore",
+            "street": "12-20 Ocean St",
+            "zip-code": "4558"
+        },
+        "location-pickup": {
+            "lat": -26.6835776,
+            "lon": 152.985756
+        },
+        "location-name": "12-20 Ocean St",
+        "location-contact-phone": "+61 7 5477 4824",
+        "location-service-info": {
+            "phone": "0000-000-000",
+            "desctext": "Text placeholder",
+            "email": "testqa@takeoff.com"
+        },
+        "location-code-retailer": "2006",
+        "location-code-tom": "2006",
+        "location-code-gold": "2006"
+    }
+,
+
+{
+        "timezone": "America/Chicago",
+        "location-address": {
+            "state": "IL",
+            "iso-state": "US-IL",
+            "city": "Westmont",
+            "street": "4 E Ogden Ave",
+            "zip-code": "60559"
+        },
+        "location-pickup": {
+            "lat": 41.8110899,
+            "lon": -87.973739
+        },
+        "location-name": "4 E Ogden Ave",
+        "location-contact-phone": "+1 630-323-9885",
+        "location-service-info": {
+            "phone": "0000-000-000",
+            "desctext": "Text Placeholder",
+            "email": "testqa@takeoff.com"
+        },
+        "location-code-retailer": "0068",
+        "location-code-tom": "0068",
+        "location-code-gold": "68"
+    }
+
+// 2. https://service-catalog-wings-uat.tom.takeoff.com/api-docs/index.html#/profile/put_api_v1_profile_apply
+
+    {
+      "tom-code": "0068",
+      "profile-name": "default_staging_mfc_profile"
+    }
+
+// 3. https://service-catalog-wings-uat.tom.takeoff.com/api-docs/index.html#/location/put_api_v1_location__id__availability
+
+    {
+      "location-id": ,
+      "enabled?": true
+    }
+
+// 4. https://service-catalog-wings-uat.tom.takeoff.com/api-docs/index.html#/location/put_api_v1_location_services_sync
+
+{
+  "mfc-tom-code": "0068"
+}
+
+// 5. https://owm-tangerine-uat.tom.takeoff.com/index.html#/mfc-location/post_v1_mfc_location
+
+{
+  "mfc-location-id": "0068",
+  "timezone": "America/Chicago"
+}

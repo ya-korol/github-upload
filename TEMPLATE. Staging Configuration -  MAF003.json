@@ -1,0 +1,725 @@
+{
+  "staging-configurations": [
+    {
+      "staging-location-code": "0104H010011B",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R01"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R09"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R17"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R25"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R33"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R41"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R49"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R57"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R65"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R73"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R81"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R89"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R97"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R105"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R113"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R121"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R129"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R137"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R145"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R153"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011A",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R00"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R08"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R16"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R24"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R32"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R40"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R48"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R56"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R64"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R72"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R80"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R88"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R96"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R104"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R112"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R120"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R128"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R136"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R144"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R152"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011G",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R06"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R14"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R22"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R30"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R38"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R46"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R54"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R62"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R70"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R78"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R86"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R94"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R102"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R110"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R118"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R126"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R134"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R142"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R150"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R158"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011D",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R03"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R11"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R19"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R27"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R35"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R43"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R51"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R59"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R67"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R75"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R83"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R91"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R99"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R107"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R115"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R123"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R131"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R139"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R147"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R155"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011C",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R02"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R10"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R18"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R26"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R34"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R42"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R50"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R58"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R66"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R74"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R82"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R90"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R98"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R106"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R114"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R122"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R130"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R138"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R146"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R154"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011H",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R07"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R15"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R23"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R31"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R39"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R47"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R55"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R63"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R71"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R79"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R87"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R95"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R103"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R111"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R119"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R127"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R135"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R143"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R151"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R159"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011F",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R05"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R13"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R21"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R29"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R37"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R45"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R53"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R61"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R69"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R77"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R85"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R93"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R101"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R109"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R117"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R125"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R133"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R141"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R149"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R157"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011E",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "R04"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R12"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R20"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R28"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R36"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R44"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R52"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R60"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R68"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R76"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R84"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R92"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R100"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R108"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R116"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R124"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R132"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R140"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R148"
+        },
+        {
+          "type": "ROUTE",
+          "code": "R156"
+        }
+      ]
+    },
+    {
+      "staging-location-code": "0104H010011J",
+      "mapped-routes": [
+        {
+          "type": "ROUTE",
+          "code": "CANCEL"
+        },
+        {
+          "type": "ROUTE",
+          "code": "CANCELED"
+        },
+        {
+          "type": "ROUTE",
+          "code": "CANCELLED"
+        },
+        {
+          "type": "ROUTE",
+          "code": "cancel"
+        },
+        {
+          "type": "ROUTE",
+          "code": "canceled"
+        },
+        {
+          "type": "ROUTE",
+          "code": "cancelled"
+        },
+        {
+          "type": "ROUTE",
+          "code": "Cancel"
+        },
+        {
+          "type": "ROUTE",
+          "code": "Canceled"
+        },
+        {
+          "type": "ROUTE",
+          "code": "Cancelled"
+        }
+      ]
+    }
+  ]
+}
